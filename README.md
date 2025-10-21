@@ -8,7 +8,8 @@ The goal is to uncover key trends in **customer demographics, payment methods, s
 - Identify top-performing shopping malls and payment methods
 - Explore purchasing frequency and average spending patterns
 - Derive insights to improve sales strategies and customer engagement
-## ⚙️ Tech Stack
+  
+## Tech Stack
 - **Python**: Core programming language  
 - **Libraries**: Pandas, NumPy, Seaborn, Matplotlib, PandasQL  
 - **Data Source**: [Kaggle - Customer Shopping Dataset](https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset)  
