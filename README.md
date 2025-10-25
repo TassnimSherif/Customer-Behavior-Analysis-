@@ -35,9 +35,12 @@ The goal is to uncover key trends in **customer demographics, payment methods, s
 4. **Insights Generation**  
    - Highlighted the most popular payment methods  
    - Detected high-spending demographics  
-   - Uncovered relationships between product price and quantity  
+   - Uncovered relationships between product price and quantity
 
 ---
+## Dataset 
+https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset 
+
 
 ## Key Insights
 - Female customers showed slightly higher purchase frequency than males.  
