@@ -40,7 +40,10 @@ The goal is to uncover key trends in **customer demographics, payment methods, s
 ---
 ## Dataset 
 https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset 
+----
+## Notebook : https://colab.research.google.com/drive/1sX4Mybf_e7xSZspxcjTEa5NfXnVKg8XC?usp=sharing
 
+#####
 
 ## Key Insights
 - Female customers showed slightly higher purchase frequency than males.  
