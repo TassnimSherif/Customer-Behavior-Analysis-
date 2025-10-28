@@ -1,6 +1,6 @@
 # Customer-Behavior-Analysis-
 ## Overview
-This project performs a comprehensive **data-driven analysis of customer shopping behavior** using a real-world retail transaction dataset from Kaggle.  
+This project performs a **data-driven analysis of customer shopping behavior** using a real-world retail transaction dataset from Kaggle.  
 The goal is to uncover key trends in **customer demographics, payment methods, spending habits, and shopping mall performance** to support better business and marketing decisions.
 ---
 ## Objectives
